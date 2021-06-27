@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/xccnNbdcSx6j1JjraTEglQ/badge)](https://hackmd.io/xccnNbdcSx6j1JjraTEglQ)
 <!-- Note: GitHub has table of contents built in -->
 
 # Draft Specification
