@@ -1,5 +1,8 @@
 # State Machine Proposal
 
+[![hackmd-github-sync-badge](https://hackmd.io/i4zYwBxtRs203u-ykG_e-g/badge)](https://hackmd.io/i4zYwBxtRs203u-ykG_e-g)
+
+
 Finite state machine specification for client send and receive. Should be equivalent to what we've discussed today.
 
 ## On message receive
